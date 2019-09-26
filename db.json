@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "name": "Project A",
+      "description": "Red",
+      "season": "Winter"
+    },
+    {
+      "name": "Project B",
+      "description": "Blue",
+      "season": "Summer"
+    },
+    {
+      "name": "Project C",
+      "description": "Green",
+      "season": "Fall"
+    },
+    {
+      "name": "Project D",
+      "description": "Yellow",
+      "season": "Spring"
+    }
+  ],
+  "paging": {
+    "total": 4
+  }
+}
