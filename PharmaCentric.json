@@ -1,184 +1,189 @@
-[
-  {
-    "Project Code": 7387,
-    "Project Name/ Brief Description": "Human Microbiome",
-    "Full Description": "Study of microbial communities that life in and on our bodies and the role they play in disease",
-    "Owner": "Fred Patrick",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 8514,
-    "Project Name/ Brief Description": "PDE4 Inhibitors",
-    "Full Description": "Small molecules for proposed treatment of Dermatitis",
-    "Owner": "Bennie Bowers",
-    "Status": "CLOSED"
-  },
-  {
-    "Project Code": 8364,
-    "Project Name/ Brief Description": "TNF Inhibitors",
-    "Full Description": "Small molecules for proposed treatment of Rheumatoid Arthritis",
-    "Owner": "Rickey Page",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 4309,
-    "Project Name/ Brief Description": "JAK3 Specific Inhibitors",
-    "Full Description": "Auto-immune disease focus",
-    "Owner": "Clayton Wagner",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 5823,
-    "Project Name/ Brief Description": "GSK3b Inhibitors",
-    "Full Description": "Development of selective inhibitors for AD and Bipolar disorder platforms",
-    "Owner": "Sharon Boone",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 8841,
-    "Project Name/ Brief Description": "Beta-Arrestin Biased Inhibitors",
-    "Full Description": "For selective modulation of GPCRs for improved disease treatments",
-    "Owner": "Patrick Mathis",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9278,
-    "Project Name/ Brief Description": "Anti PD-L1 Biologics",
-    "Full Description": "Oncology: Renal cell carcinoma combo treatment",
-    "Owner": "Cathy Gill",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 8897,
-    "Project Name/ Brief Description": "ER+/HER2+ B. Cancer",
-    "Full Description": "Small molecule development for CDK4,6 Kinase Inhibitors",
-    "Owner": "Clint Gonzales",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 5859,
-    "Project Name/ Brief Description": "ALK Inhibitors",
-    "Full Description": "To target Non-Small Cell lung cancer",
-    "Owner": "Roger Reyes",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 4256,
-    "Project Name/ Brief Description": "Group B Streptococcus",
-    "Full Description": "Prophylactic vaccine development",
-    "Owner": "Donnie Patterson",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 4915,
-    "Project Name/ Brief Description": "RSV (Respiratory Syncytial Virus)",
-    "Full Description": "Prophylactic vaccine development",
-    "Owner": "Lionel Morris",
-    "Status": "CLOSED"
-  },
-  {
-    "Project Code": 6396,
-    "Project Name/ Brief Description": "sGC Stimulators (soluble Guanylate Cyclase)",
-    "Full Description": "Investigate stimulators for protection against worsening chronic heart failure",
-    "Owner": "Harvey Bowen",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9116,
-    "Project Name/ Brief Description": "Anti-infectives (Bacteria)",
-    "Full Description": "Class A and C beta-lactamase inhibitors for treatment of acute bacterial infections",
-    "Owner": "Ada Bryant",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9044,
-    "Project Name/ Brief Description": "LPA1 Antagonists",
-    "Full Description": "Small molecule discovery for Fibrotic diseases",
-    "Owner": "Shelly Myers",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 6100,
-    "Project Name/ Brief Description": "PEG-FGF21",
-    "Full Description": "Pegbelfermin - Biologic discovery for Fibrotic diseases",
-    "Owner": "Amos Mills",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 6694,
-    "Project Name/ Brief Description": "TYK2 Inhibitors",
-    "Full Description": "Small molecule discovery for treatment of Psoriasis, Rheumatoid Arthritis",
-    "Owner": "Emily Klein",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9148,
-    "Project Name/ Brief Description": "BTK Inhibitors",
-    "Full Description": "Small molecule discovery for Immunoscience",
-    "Owner": "Vanessa Knight",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9151,
-    "Project Name/ Brief Description": "S1P1 Agonists",
-    "Full Description": "Small molecule discovery for Sphingosine-1-phosphate receptor - MS",
-    "Owner": "Sylvia Patton",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 4639,
-    "Project Name/ Brief Description": "TLR 7/8 Antagonists",
-    "Full Description": "Small molecule discovery for Immunoscience",
-    "Owner": "Jeannette Rios",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 9939,
-    "Project Name/ Brief Description": "Anti-TIM-3",
-    "Full Description": "Monoclonal antibody treatment for Oncology",
-    "Owner": "Alex Dixon",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 5466,
-    "Project Name/ Brief Description": "NLRP3 Agonists",
-    "Full Description": "Small molecule discovery for Oncology",
-    "Owner": "Julius Salazar",
-    "Status": "CLOSED"
-  },
-  {
-    "Project Code": 6192,
-    "Project Name/ Brief Description": "HIVI",
-    "Full Description": "HIV integrase inhibitor",
-    "Owner": "Neal Welch",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 1182,
-    "Project Name/ Brief Description": "PARP 1/2 Inhibitor",
-    "Full Description": "Poly (ADP-ribose) 1/2 Inhibitors targeting ovarian cancer - monotherapy",
-    "Owner": "Ruben Caldwell",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 6776,
-    "Project Name/ Brief Description": "ADRB2 Agonists",
-    "Full Description": "Beta 2 adrenergic receptor agonist as component of dual treatment with muscarinic receptor antagonist - Asthma",
-    "Owner": "Glen Pierce",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 8325,
-    "Project Name/ Brief Description": "IL5 Antagonists",
-    "Full Description": "Interleukin 5 antagonists for targeting Hypereosinophilic Syndrome",
-    "Owner": "Camille Weber",
-    "Status": "ONGOING"
-  },
-  {
-    "Project Code": 229,
-    "Project Name/ Brief Description": "CXCR4 Inhibitors",
-    "Full Description": "alpha-chemokine receptor specific for stromal-derived factor 1 (SDF-1)",
-    "Owner": "Neal Welch",
-    "Status": "ONGOING"
-  }
-]
+{
+    "data": [
+        {
+            "Project Code": 7387,
+            "Project Name/ Brief Description": "Human Microbiome",
+            "Full Description": "Study of microbial communities that life in and on our bodies and the role they play in disease",
+            "Owner": "Fred Patrick",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 8514,
+            "Project Name/ Brief Description": "PDE4 Inhibitors",
+            "Full Description": "Small molecules for proposed treatment of Dermatitis",
+            "Owner": "Bennie Bowers",
+            "Status": "CLOSED"
+        },
+        {
+            "Project Code": 8364,
+            "Project Name/ Brief Description": "TNF Inhibitors",
+            "Full Description": "Small molecules for proposed treatment of Rheumatoid Arthritis",
+            "Owner": "Rickey Page",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 4309,
+            "Project Name/ Brief Description": "JAK3 Specific Inhibitors",
+            "Full Description": "Auto-immune disease focus",
+            "Owner": "Clayton Wagner",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 5823,
+            "Project Name/ Brief Description": "GSK3b Inhibitors",
+            "Full Description": "Development of selective inhibitors for AD and Bipolar disorder platforms",
+            "Owner": "Sharon Boone",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 8841,
+            "Project Name/ Brief Description": "Beta-Arrestin Biased Inhibitors",
+            "Full Description": "For selective modulation of GPCRs for improved disease treatments",
+            "Owner": "Patrick Mathis",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9278,
+            "Project Name/ Brief Description": "Anti PD-L1 Biologics",
+            "Full Description": "Oncology: Renal cell carcinoma combo treatment",
+            "Owner": "Cathy Gill",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 8897,
+            "Project Name/ Brief Description": "ER+/HER2+ B. Cancer",
+            "Full Description": "Small molecule development for CDK4,6 Kinase Inhibitors",
+            "Owner": "Clint Gonzales",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 5859,
+            "Project Name/ Brief Description": "ALK Inhibitors",
+            "Full Description": "To target Non-Small Cell lung cancer",
+            "Owner": "Roger Reyes",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 4256,
+            "Project Name/ Brief Description": "Group B Streptococcus",
+            "Full Description": "Prophylactic vaccine development",
+            "Owner": "Donnie Patterson",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 4915,
+            "Project Name/ Brief Description": "RSV (Respiratory Syncytial Virus)",
+            "Full Description": "Prophylactic vaccine development",
+            "Owner": "Lionel Morris",
+            "Status": "CLOSED"
+        },
+        {
+            "Project Code": 6396,
+            "Project Name/ Brief Description": "sGC Stimulators (soluble Guanylate Cyclase)",
+            "Full Description": "Investigate stimulators for protection against worsening chronic heart failure",
+            "Owner": "Harvey Bowen",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9116,
+            "Project Name/ Brief Description": "Anti-infectives (Bacteria)",
+            "Full Description": "Class A and C beta-lactamase inhibitors for treatment of acute bacterial infections",
+            "Owner": "Ada Bryant",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9044,
+            "Project Name/ Brief Description": "LPA1 Antagonists",
+            "Full Description": "Small molecule discovery for Fibrotic diseases",
+            "Owner": "Shelly Myers",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 6100,
+            "Project Name/ Brief Description": "PEG-FGF21",
+            "Full Description": "Pegbelfermin - Biologic discovery for Fibrotic diseases",
+            "Owner": "Amos Mills",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 6694,
+            "Project Name/ Brief Description": "TYK2 Inhibitors",
+            "Full Description": "Small molecule discovery for treatment of Psoriasis, Rheumatoid Arthritis",
+            "Owner": "Emily Klein",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9148,
+            "Project Name/ Brief Description": "BTK Inhibitors",
+            "Full Description": "Small molecule discovery for Immunoscience",
+            "Owner": "Vanessa Knight",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9151,
+            "Project Name/ Brief Description": "S1P1 Agonists",
+            "Full Description": "Small molecule discovery for Sphingosine-1-phosphate receptor - MS",
+            "Owner": "Sylvia Patton",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 4639,
+            "Project Name/ Brief Description": "TLR 7/8 Antagonists",
+            "Full Description": "Small molecule discovery for Immunoscience",
+            "Owner": "Jeannette Rios",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 9939,
+            "Project Name/ Brief Description": "Anti-TIM-3",
+            "Full Description": "Monoclonal antibody treatment for Oncology",
+            "Owner": "Alex Dixon",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 5466,
+            "Project Name/ Brief Description": "NLRP3 Agonists",
+            "Full Description": "Small molecule discovery for Oncology",
+            "Owner": "Julius Salazar",
+            "Status": "CLOSED"
+        },
+        {
+            "Project Code": 6192,
+            "Project Name/ Brief Description": "HIVI",
+            "Full Description": "HIV integrase inhibitor",
+            "Owner": "Neal Welch",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 1182,
+            "Project Name/ Brief Description": "PARP 1/2 Inhibitor",
+            "Full Description": "Poly (ADP-ribose) 1/2 Inhibitors targeting ovarian cancer - monotherapy",
+            "Owner": "Ruben Caldwell",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 6776,
+            "Project Name/ Brief Description": "ADRB2 Agonists",
+            "Full Description": "Beta 2 adrenergic receptor agonist as component of dual treatment with muscarinic receptor antagonist - Asthma",
+            "Owner": "Glen Pierce",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 8325,
+            "Project Name/ Brief Description": "IL5 Antagonists",
+            "Full Description": "Interleukin 5 antagonists for targeting Hypereosinophilic Syndrome",
+            "Owner": "Camille Weber",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": 229,
+            "Project Name/ Brief Description": "CXCR4 Inhibitors",
+            "Full Description": "alpha-chemokine receptor specific for stromal-derived factor 1 (SDF-1)",
+            "Owner": "Neal Welch",
+            "Status": "ONGOING"
+        }
+    ],
+    "paging": {
+        "total": 26
+    }
+}
