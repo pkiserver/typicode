@@ -22,17 +22,17 @@
  {
    "Kostenstelle": 286130,
    "Buchungskreis": 101,
-   "Beschreibung": "P-�l-Anlage"
+   "Beschreibung": "P-Öl-Anlage"
  },
  {
    "Kostenstelle": 286160,
    "Buchungskreis": 101,
-   "Beschreibung": "X-�l-Anlage 2"
+   "Beschreibung": "X-Öl-Anlage 2"
  },
  {
    "Kostenstelle": 286170,
    "Buchungskreis": 101,
-   "Beschreibung": "Diff.-�l-Anlage"
+   "Beschreibung": "Diff.-Öl-Anlage"
  },
  {
    "Kostenstelle": 286420,
@@ -57,6 +57,6 @@
  {
    "Kostenstelle": 286150,
    "Buchungskreis": 101,
-   "Beschreibung": "X-�l-Anlage 1"
+   "Beschreibung": "X-Öl-Anlage 1"
  }
 ]
